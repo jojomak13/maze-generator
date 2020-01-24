@@ -9,7 +9,7 @@ let base = {
 const w = 20;
 
 function setup() {
-    createCanvas(440, 440);
+    createCanvas(320, 320);
 
     frameRate(50);
 
